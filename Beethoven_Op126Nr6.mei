@@ -29,7 +29,7 @@
         <workList>
           <work>
             <identifier>Opus 126 Nr. 6</identifier>
-            <title xml:lang="de">Sechs Bagetellen für das Pianoforte</title>
+            <title xml:lang="de">Sechs Bagatellen für das Pianoforte</title>
             <title type="subordinate" n="2" label="Number">Nr. 6</title>
             <composer>
               <persName auth.uri="http://d-nb.info/gnd" auth="GND" codedval="118508288">Ludwig van
@@ -46,7 +46,7 @@
           <manifestation>
             <identifier>Plate B. 190.</identifier>
             <titleStmt>
-              <title>32 Variationen für das Pianoforte</title>
+              <title>Sechs Bagatellen für das Pianoforte</title>
             </titleStmt>
             <pubStmt>
               <pubPlace>Leipzig</pubPlace>
