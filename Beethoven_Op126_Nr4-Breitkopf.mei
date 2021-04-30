@@ -5850,7 +5850,6 @@
                                 </staff>
                                 <slur xml:id="slur-0000000200240295" startid="#chord-0000000021181715" endid="#note-0000000043072962"/>
                             </measure>
-                            <pb xml:id="pb-0000001519928112"/>
                         </section>
                     </section>
                 </score>

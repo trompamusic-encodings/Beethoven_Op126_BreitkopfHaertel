@@ -1636,7 +1636,6 @@
                                 </staff>
                                 <slur xml:id="slur-0000000186817782" startid="#chord-0000001302003093" endid="#note-0000000734066627"/>
                             </measure>
-                            <pb xml:id="pb-0000001051320312"/>
                         </section>
                     </section>
                 </score>
