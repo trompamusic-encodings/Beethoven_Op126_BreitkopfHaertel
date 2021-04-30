@@ -2168,7 +2168,6 @@
                             <fermata xml:id="fermata-0000000150942292" staff="1" startid="#rest-0000001125232875"/>
                             <fermata xml:id="fermata-0000000708914537" staff="2" startid="#rest-0000001957490756"/>
                         </measure>
-                        <pb xml:id="pb-0000000369617925"/>
                     </section>
                 </score>
             </mdiv>
