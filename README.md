@@ -1,6 +1,8 @@
 ![TROMPA: Towards Richer Online Music Public-domain Archives](https://trompamusic.eu/sites/default/files/top-bar-logo_0_0.png)
                                                                                 
-# MEI encoding: 6 Bagatelles (Opus 126) by Ludwig van Beethoven             
+# MEI encoding: 6 Bagatelles (Opus 126) by Ludwig van Beethoven
+
+[![DOI](https://zenodo.org/badge/224882961.svg)](https://zenodo.org/badge/latestdoi/224882961)
                                                                                 
 This repository contains an [MEI](https://music-encoding.org) encoding of 6 Bagatelles (Opus 126) by Ludwig van Beethoven, derived from the [Breitkopf und Härtel edition, 1862–90. Plate B.190](https://imslp.org/wiki/Special:ReverseLookup/58131) with corrections from the [holograph manuscript](https://imslp.org/wiki/Special:ReverseLookup/51350).
                                                                                 
