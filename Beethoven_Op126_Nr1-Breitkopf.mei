@@ -1142,8 +1142,8 @@
                                  </orig>
                                  <reg xml:id="reg-0000000305704386">
                                     <beam xml:id="beam-0000001913176765">
-                                       <note xml:id="note-0000000773798864" dur="32" oct="5" pname="c" cue="true" stem.dir="down">
-                                          <accid xml:id="accid-0000001455173618" accid="n" />
+                                       <note xml:id="note-0000000773798814" dur="32" oct="5" pname="c" cue="true" stem.dir="down">
+                                          <accid xml:id="accid-0000001455173616" accid="n" />
                                        </note>
                                        <note xml:id="note-0000001067172975" dur="32" oct="5" pname="d" cue="true" stem.dir="down" />
                                        <note xml:id="note-0000000911054633" dur="32" oct="5" pname="c" cue="true" stem.dir="down" />
