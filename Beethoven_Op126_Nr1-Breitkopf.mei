@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+<?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.1">
    <meiHead>
       <fileDesc>
          <titleStmt>
@@ -67,7 +67,7 @@
       <body>
          <mdiv xml:id="Nr1" n="1" type="piece">
             <score xml:id="score-0000000423429501">
-               <scoreDef xml:id="scoredef-0000001813535673" midi.bpm="112.000000" key.sig="1s" meter.count="3" meter.unit="4">
+               <scoreDef xml:id="scoredef-0000001813535673" midi.bpm="112" key.sig="1s" meter.count="3" meter.unit="4">
                   <pgHead xml:id="pghead-0000002045266725">
                      <rend xml:id="rend-0000000423485031" halign="left" valign="middle" fontsize="100.00%">Beethovens Werke.<lb xml:id="lb-0000000931946803" />
                      </rend>
