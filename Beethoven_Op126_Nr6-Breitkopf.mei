@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+<?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.1">
     <meiHead>
         <fileDesc>
             <titleStmt>
@@ -146,7 +146,7 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                                <tempo xml:id="tempo-0000000452719982" place="above" staff="1" tstamp="1.000000">Presto.</tempo>
+                                <tempo xml:id="tempo-0000000452719982" place="above" staff="1" tstamp="1.000000" midi.bpm="264">Presto.</tempo>
                                 <dynam xml:id="dynam-0000001401079862" place="above" staff="2" startid="#note-0000001116880931">f</dynam>
                             </measure>
                             <measure xml:id="measure-0000000289673244" n="2">
