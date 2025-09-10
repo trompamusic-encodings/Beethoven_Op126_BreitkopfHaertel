@@ -25,7 +25,7 @@
                <name xml:id="name-0000000387551279">Verovio</name>
                <p xml:id="p-0000002088441435">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="a9boion2" startdate="2023-08-10T21:55:58" version="0.10.2" enddate="2023-08-12T09:23:41">
+            <application xml:id="a9boion2" enddate="2025-09-10T10:27:02" startdate="2023-08-10T21:55:58" version="1.2.8">
                <name xml:id="n4k7wp8">mei-friend</name>
                <p xml:id="pe2ickr1">First edit by mei-friend 0.10.2, 10 August 2023.</p>
             </application>
@@ -91,7 +91,7 @@
                      </rend>
                   </pgHead>
                   <pgFoot xml:id="pgfoot-0000000472217220">
-                     <rend xml:id="rend-0000000443485032" halign="left" valign="middle" fontsize="75.00%">Original-Verleger: B. Schott's Söhne in Mainz.<lb xml:id="lb-0000000931946844" />
+                     <rend xml:id="rend-0000000443485032" halign="left" valign="middle" fontsize="75.00%">Original-Verleger: B. Schott’s Söhne in Mainz.<lb xml:id="lb-0000000931946844" />
                      </rend>
                      <rend xml:id="rend-0000000423485035" halign="right" valign="middle" fontsize="75.00%">Stich und Druck von Breitkopf &amp; Härtel in Leipzig.<lb xml:id="lb-0000000931946804" />
                      </rend>
@@ -230,8 +230,8 @@
                         <staff xml:id="staff-0000001359570027" n="1">
                            <layer xml:id="layer-0000001511632983" n="1">
                               <note xml:id="note-0000000196524402" dur="4" oct="4" pname="b" stem.dir="down" />
-                              <note xml:id="note-0000001243446980" dur="4" oct="5" pname="g" stem.dir="down" />
-                              <note xml:id="note-0000000907128382" dur="4" oct="5" pname="g" stem.dir="down" />
+                              <note xml:id="note-0000001243446980" dur="4" oct="5" pname="g" stem.dir="down"/>
+                              <note xml:id="note-0000000907128382" dur="4" oct="5" pname="g" stem.dir="down"/>
                            </layer>
                         </staff>
                         <staff xml:id="staff-0000000471513061" n="2">
@@ -263,12 +263,12 @@
                      <measure xml:id="measure-0000001921437833" n="5">
                         <staff xml:id="staff-0000000658507053" n="1">
                            <layer xml:id="layer-0000000889068743" n="1">
-                              <note xml:id="note-0000002047586651" dur="4" oct="5" pname="g" stem.dir="down" />
+                              <note xml:id="note-0000002047586651" dur="4" oct="5" pname="g" stem.dir="down"/>
                               <beam xml:id="beam-0000000401871806">
-                                 <note xml:id="note-0000000998529651" dur="8" oct="5" pname="f" stem.dir="down" accid.ges="s" />
-                                 <note xml:id="note-0000001266561168" dur="8" oct="5" pname="a" stem.dir="down" />
+                                 <note xml:id="note-0000000998529651" accid.ges="s" dur="8" oct="5" pname="f" stem.dir="down"/>
+                                 <note xml:id="note-0000001266561168" dur="8" oct="5" pname="a" stem.dir="down"/>
                               </beam>
-                              <note xml:id="note-0000001690792646" dur="4" oct="5" pname="g" stem.dir="down" />
+                              <note xml:id="note-0000001690792646" dur="4" oct="5" pname="g" stem.dir="down"/>
                            </layer>
                         </staff>
                         <staff xml:id="staff-0000000559198340" n="2">
@@ -288,7 +288,7 @@
                      <measure xml:id="measure-0000000001450994" n="6">
                         <staff xml:id="staff-0000000333612436" n="1">
                            <layer xml:id="layer-0000001732064310" n="1">
-                              <note xml:id="note-0000002130634935" dur="4" oct="5" pname="g" stem.dir="down" />
+                              <note xml:id="note-0000002130634935" dur="4" oct="5" pname="g" stem.dir="down"/>
                               <beam xml:id="beam-0000000591615579">
                                  <note xml:id="note-0000000008513243" dur="8" oct="4" pname="a" stem.dir="up" />
                                  <note xml:id="note-0000001916651252" dur="8" oct="5" pname="c" stem.dir="up" />
@@ -412,11 +412,11 @@
                         <staff xml:id="staff-0000000357951549" n="2">
                            <layer xml:id="layer-0000000491161221" n="1">
                               <beam xml:id="beam-0000001871412617">
-                                 <note xml:id="note-0000001369958147" dur="8" oct="4" pname="d" stem.dir="down"/>
-                                 <note xml:id="note-0000001057905268" dur="8" oct="3" pname="d" stem.dir="down"/>
-                                 <note xml:id="note-0000000210674024" dur="8" oct="4" pname="c" stem.dir="down"/>
-                                 <note xml:id="note-0000000474801738" dur="8" oct="3" pname="d" stem.dir="down"/>
-                                 <note xml:id="note-0000001107503545" dur="8" oct="3" pname="b" stem.dir="down"/>
+                                 <note xml:id="note-0000001369958147" dur="8" oct="3" oct.ges="4" pname="d" stem.dir="down"/>
+                                 <note xml:id="note-0000001057905268" dur="8" oct="2" oct.ges="3" pname="d" stem.dir="down"/>
+                                 <note xml:id="note-0000000210674024" dur="8" oct="3" oct.ges="4" pname="c" stem.dir="down"/>
+                                 <note xml:id="note-0000000474801738" dur="8" oct="2" oct.ges="3" pname="d" stem.dir="down"/>
+                                 <note xml:id="note-0000001107503545" dur="8" oct="2" oct.ges="3" pname="b" stem.dir="down"/>
                                  <note xml:id="note-0000000527244367" dur="8" oct="3" pname="d" stem.dir="down"/>
                               </beam>
                            </layer>
@@ -424,6 +424,7 @@
                         <trill xml:id="trill-0000000942410934" staff="1" startid="#note-0000000454982847" />
                         <slur xml:id="slur-0000000109498643" startid="#note-0000002044533800" endid="#note-0000001620857868" />
                         <slur xml:id="slur-0000000659569526" startid="#note-0000001369958147" endid="#note-0000001914097255" />
+                        <octave xml:id="o0bvew6" dis="8" dis.place="above" endid="#note-0000001107503545" startid="#note-0000001369958147"/>
                      </measure>
                      <measure xml:id="measure-0000001438359161" n="10">
                         <staff xml:id="staff-0000000602599718" n="1">
@@ -827,7 +828,7 @@
                               </chord>
                            </layer>
                         </staff>
-                        <tempo xml:id="tempo-0000000711923598" place="above" staff="1" tstamp="1.000000">L'istesso Tempo.</tempo>
+                        <tempo xml:id="tempo-0000000711923598" place="above" staff="1" tstamp="1.000000">L’istesso Tempo.</tempo>
                         <slur xml:id="slur-0000001106914576" startid="#note-0000000607313344" endid="#note-0000001416416134" />
                         <hairpin xml:id="hairpin-0000001385207081" staff="1" tstamp="1.500000" tstamp2="0m+2.1000" form="cres" place="below" vgrp="200" />
                         <hairpin xml:id="hairpin-0000000305193240" staff="1" tstamp="2.250000" tstamp2="0m+2.7500" form="dim" place="below" vgrp="200" />
