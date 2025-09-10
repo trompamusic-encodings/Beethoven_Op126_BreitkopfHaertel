@@ -69,7 +69,7 @@
                     <scoreDef xml:id="scoredef-0000001813535673" key.sig="2s" meter.count="2" meter.unit="2" meter.sym="cut">
                         <pgHead xml:id="pghead-0000001617543679"/>
                         <pgFoot xml:id="pgfoot-0000000472217220">
-                            <rend xml:id="rend-0000000443485032" halign="left" valign="middle" fontsize="75.00%">Original-Verleger: B. Schott's Söhne in Mainz.<lb
+                            <rend xml:id="rend-0000000443485032" halign="left" valign="middle" fontsize="75.00%">Original-Verleger: B. Schott’s Söhne in Mainz.<lb
                                     xml:id="lb-0000000931946844"/>
                             </rend>
                             <rend xml:id="rend-0000000423485035" halign="right" valign="middle" fontsize="75.00%">Stich und Druck von Breitkopf &amp; Härtel in Leipzig.<lb
@@ -111,7 +111,7 @@
                                         <note xml:id="note-0000001096934759" dur="4" oct="2" pname="f" stem.dir="down" accid.ges="s"/>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="dynam-0000000980665565" place="above" staff="2" startid="#note-0000001243593241" vgrp="100">f</dynam>
+                               <dynam xml:id="dynam-0000000980665565" place="between" staff="1 2" startid="#note-0000001243593241" vgrp="100">f</dynam>
                                 <tempo xml:id="tempo-0000001710906913" place="above" staff="1" tstamp="1.000000" midi.bpm="260">Presto.</tempo>
                             </measure>
                             <measure xml:id="measure-0000001442146977" n="1">
@@ -1032,8 +1032,7 @@
                                     </layer>
                                 </staff>
                                 <slur xml:id="slur-0000002056114825" startid="#note-0000000681523426" endid="#note-0000001187671035"/>
-                                <dynam xml:id="dynam-0000002131548832" place="below" staff="1" tstamp="1.000000" vgrp="200">sempre</dynam>
-                                <dynam xml:id="dynam-0000002131549485" place="below" staff="1" tstamp="2.000000" vgrp="200">p</dynam>
+                                <dynam xml:id="dynam-0000002131548832" place="below" staff="1" tstamp="1.000000" vgrp="200">sempre p</dynam>
                             </measure>
                             <measure xml:id="measure-0000000970476844" n="33">
                                 <staff xml:id="staff-0000002053478203" n="1">
@@ -2955,7 +2954,7 @@
                                         <note xml:id="note-0000000178890929" dur="4" oct="2" pname="f" stem.dir="down" accid.ges="s"/>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="dynam-0000000138074604" place="above" staff="2" startid="#note-0000000068839520" vgrp="100">f</dynam>
+                               <dynam xml:id="dynam-0000000138074604" place="between" staff="1 2" startid="#note-0000000068839520" vgrp="100">f</dynam>
                             </measure>
                             <measure xml:id="measure-0000000349296778" n="106">
                                 <staff xml:id="staff-0000000623391648" n="1">
@@ -3876,8 +3875,7 @@
                                     </layer>
                                 </staff>
                                 <slur xml:id="slur-0000000052125318" startid="#note-0000000260302050" endid="#note-0000000245592420"/>
-                                <dynam xml:id="dynam-0000000115922070" place="below" staff="1" tstamp="1.000000" vgrp="200">sempre</dynam>
-                                <dynam xml:id="dynam-0000000054511677" place="below" staff="1" tstamp="2.000000" vgrp="200">p</dynam>
+                                <dynam xml:id="dynam-0000000115922070" place="below" staff="1" tstamp="1.000000" vgrp="200">sempre p</dynam>
                             </measure>
                             <measure xml:id="measure-0000000049357364" n="138">
                                 <staff xml:id="staff-0000000035270244" n="1">
@@ -4523,7 +4521,6 @@
                                     </layer>
                                 </staff>
                                 <slur xml:id="slur-0000000812592340" startid="#note-0000000019266520" endid="#note-0000000026789226"/>
-                                <dir xml:id="dir-0000000437467401" place="above" staff="2" startid="#note-0000000157877100">"tf</dir>
                                 <tie xml:id="tie-0000000128624510" startid="#note-0000000095814360" endid="#note-0000000108999522"/>
                             </measure>
                             <sb xml:id="sb-0000000473134338"/>
