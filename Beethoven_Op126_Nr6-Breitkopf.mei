@@ -69,7 +69,7 @@
                     <scoreDef xml:id="scoredef-0000001813535673" key.sig="3f" meter.count="2" meter.unit="2" meter.sym="cut" midi.bpm="264">
                         <pgHead xml:id="pghead-0000001617543679"/>
                         <pgFoot xml:id="pgfoot-0000000472217220">
-                            <rend xml:id="rend-0000000443485032" halign="left" valign="middle" fontsize="75.00%">Original-Verleger: B. Schott's Söhne in Mainz.<lb
+                            <rend xml:id="rend-0000000443485032" halign="left" valign="middle" fontsize="75.00%">Original-Verleger: B. Schott’s Söhne in Mainz.<lb
                                     xml:id="lb-0000000931946844"/>
                             </rend>
                             <rend xml:id="rend-0000000423485035" halign="right" valign="middle" fontsize="75.00%">Stich und Druck von Breitkopf &amp; Härtel in Leipzig.<lb
@@ -1349,8 +1349,7 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="dynam-0000001613125564" place="below" staff="1" tstamp="1.000000" vgrp="200">più</dynam>
-                                <dynam xml:id="dynam-0000000416546097" place="below" staff="1" tstamp="1.660000" tstamp2="1m+2.0000" extender="true" vgrp="200">p</dynam>
+                                <dynam xml:id="dynam-0000001613125564" place="below" staff="1" tstamp="1.000000" vgrp="200">più p</dynam>
                                 <tie xml:id="tie-0000001509661643" startid="#note-0000000932354617" endid="#note-0000000407390590"/>
                             </measure>
                             <measure xml:id="measure-0000001993916011" n="32">
@@ -1888,7 +1887,7 @@
                                 <slur xml:id="slur-0000001175804102" startid="#chord-0000001577519462" endid="#chord-0000000462174635"/>
                                 <slur xml:id="slur-0000000333049900" startid="#chord-0000001557214802" endid="#chord-0000000313451699"/>
                                 <dynam xml:id="dynam-0000000471985014" place="above" staff="2" tstamp="1.000000" vgrp="200">p</dynam>
-                                <dynam xml:id="dynam-0000000471942314" place="above" staff="2" tstamp="1.333400" vgrp="200">crescendo</dynam>
+                                <dynam xml:id="dynam-0000000471942314" place="above" staff="2" tstamp="1.4" vgrp="200">crescendo</dynam>
                             </measure>
                             <measure xml:id="measure-0000000330836509" n="43">
                                 <staff xml:id="staff-0000000140013735" n="1">
