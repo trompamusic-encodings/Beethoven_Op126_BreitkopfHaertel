@@ -25,7 +25,7 @@
                <name xml:id="name-0000000387551279">Verovio</name>
                <p xml:id="p-0000002088441435">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="a9boion2" enddate="2025-09-10T17:01:58" startdate="2023-08-10T21:55:58" version="1.2.8">
+            <application xml:id="a9boion2" enddate="2025-09-10T17:03:19" startdate="2023-08-10T21:55:58" version="1.2.8">
                <name xml:id="n4k7wp8">mei-friend</name>
                <p xml:id="pe2ickr1">First edit by mei-friend 0.10.2, 10 August 2023.</p>
             </application>
@@ -827,7 +827,7 @@
                               </chord>
                            </layer>
                         </staff>
-                        <tempo xml:id="tempo-0000000711923598" place="above" staff="1" tstamp="1.000000">L’istesso Tempo.</tempo>
+                        <tempo xml:id="tempo-0000000711923598" place="above" staff="1" tstamp="1.000000">L’istesso tempo.</tempo>
                         <slur xml:id="slur-0000001106914576" endid="#note-0000001416416134" startid="#note-0000000607313344"/>
                         <hairpin xml:id="hairpin-0000001385207081" form="cres" place="below" staff="1" tstamp="1.500000" tstamp2="0m+2.1000" vgrp="200"/>
                         <hairpin xml:id="hairpin-0000000305193240" form="dim" place="below" staff="1" tstamp="2.250000" tstamp2="0m+2.7500" vgrp="200"/>
@@ -965,7 +965,7 @@
                         </staff>
                         <hairpin xml:id="hairpin-0000000087258359" form="cres" place="below" staff="1" tstamp="1.250000" tstamp2="0m+2.0000" vgrp="200"/>
                         <hairpin xml:id="hairpin-0000001967392459" form="dim" place="below" staff="1" tstamp="2.100000" tstamp2="0m+2.9500" vgrp="200"/>
-                        <slur xml:id="slur-0000000800844462" curvedir="above" endid="#note-0000000250787927" startid="#note-0000000455498616"/>
+                        <slur xml:id="slur-0000000800844462" curvedir="below" endid="#note-0000000250787927" startid="#note-0000000455498616"/>
                      </measure>
                      <measure xml:id="measure-0000000178657134" n="26">
                         <staff xml:id="staff-0000000199606116" n="1">
@@ -1000,7 +1000,7 @@
                               <note xml:id="note-0000001735410670" accid.ges="s" dur="4" oct="3" pname="f" stem.dir="down"/>
                            </layer>
                         </staff>
-                        <slur xml:id="slur-0000001524669668" curvedir="above" endid="#note-0000001567192688" startid="#note-0000000989850219"/>
+                        <slur xml:id="slur-0000001524669668" curvedir="below" endid="#note-0000001567192688" startid="#note-0000000989850219"/>
                         <slur xml:id="slur-0000000424729543" endid="#note-0000000199799496" startid="#note-0000000364115382"/>
                         <tie xml:id="tie-0000002081665996" endid="#note-0000001492977652" startid="#note-0000001567192688"/>
                         <tie xml:id="tie-0000000594469215" curvedir="above" endid="#note-0000001393773576" startid="#note-0000000199799496"/>
