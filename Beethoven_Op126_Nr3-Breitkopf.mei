@@ -69,7 +69,7 @@
                     <scoreDef xml:id="scoredef-0000001813535673" key.sig="3f" meter.count="3" meter.unit="8" midi.bpm="72">
                         <pgHead xml:id="pghead-0000001617543679"/>
                         <pgFoot xml:id="pgfoot-0000000472217220">
-                            <rend xml:id="rend-0000000443485032" halign="left" valign="middle" fontsize="75.00%">Original-Verleger: B. Schott's Söhne in Mainz.<lb
+                            <rend xml:id="rend-0000000443485032" halign="left" valign="middle" fontsize="75.00%">Original-Verleger: B. Schott’s Söhne in Mainz.<lb
                                     xml:id="lb-0000000931946844"/>
                             </rend>
                             <rend xml:id="rend-0000000423485035" halign="right" valign="middle" fontsize="75.00%">Stich und Druck von Breitkopf &amp; Härtel in Leipzig.<lb
